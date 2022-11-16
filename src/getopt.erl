@@ -15,7 +15,7 @@
          usage/2, usage/3, usage/4, usage/6, tokenize/1]).
 -export([usage_cmd_line/2, usage_options/1]).
 
--define(LINE_LENGTH, 75).
+-define(LINE_LENGTH, 125).
 -define(MIN_USAGE_COMMAND_LINE_OPTION_LENGTH, 25).
 
 %% Position of each field in the option specification tuple.
